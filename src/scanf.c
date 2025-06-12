@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include"hotel.h"
+
 int scan(void)
 {   
     int user_number;
